@@ -4,8 +4,8 @@ import {useForm} from 'react-hook-form';
 import Header from "../../component/Header/Header";
 import RadioGroup from "../../component/RadioGroup/RadioGroup";
 import Email from "../../component/Email/Email";
-import CreatePassword from "../../component/Password/ConfirmPswrd";
-import ConfirmPswrd from "../../component/Password/ConfirmPswrd";
+import CreatePassword from "../../component/Password/CreatePswrd";
+import ConfirmPassword from "../../component/Password/ConfirmPswrd";
 import SubmitBtn from "../../component/SubmitBtn/SubmitBtn";
 import FooterLink from "../../component/FooterLink/FooterLink";
 import './SignUp.scss';
@@ -71,7 +71,7 @@ const SignUp = () => {
 
                                 <CreatePassword control={control} errors={errors} component={PasswordInput}/>
 
-                                <ConfirmPswrd control={control} errors={errors} component={PasswordRepeatInput} currentPswd={password}/>
+                                <ConfirmPassword control={control} errors={errors} component={PasswordRepeatInput} currentPswd={password}/>
 
                                 <SubmitBtn />
 

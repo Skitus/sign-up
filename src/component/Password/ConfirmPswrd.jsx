@@ -6,7 +6,7 @@ import "./Password.scss";
 
 const {Title} = Typography;
 
-const CreatePassword = ({errors, control, component, currentPswd}) => {
+const ConfirmPassword = ({errors, control, component, currentPswd}) => {
     return (
         <div className="input-block">
             <Title level={5}>Confirm password</Title>
@@ -30,4 +30,4 @@ const CreatePassword = ({errors, control, component, currentPswd}) => {
     );
 }
 
-export default CreatePassword;
+export default ConfirmPassword;
