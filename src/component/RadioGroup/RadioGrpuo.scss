@@ -1,0 +1,24 @@
+.ant-radio-group {
+  width: 100%;
+  border-radius: 10px;
+  .ant-radio-button-wrapper:first-child, .ant-radio-button-wrapper, .ant-radio-button-wrapper:last-child {
+    border-radius: 10px;
+  }
+
+  label {
+    width: 29%;
+    margin: 0px 2%;
+    height: 100px;
+    border-radius: 10px;
+
+    .radio-text {
+      text-align: center;
+      width: 100%;
+
+      .icon {
+        margin-top: 10px;
+        font-size: 3em;
+      }
+    }
+  }
+}

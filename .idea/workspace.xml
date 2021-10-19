@@ -2,22 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dea35a20-851f-4442-800f-71558df6e87d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/component/FromErrorMessage/FormErrorMessage.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/FromErrorMessage/FromErrorMessage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/SignUpPage/SignUp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/SignUpPage/SignUp.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/component/utils/formValidation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/SignUpPage/SignUp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Page/SignUpPage/SignUp.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Email/Email.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Email/Email.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/FooterLink/FooterLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Header/Header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Password/ConfirmPswrd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Password/CreatePswrd.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/Password/Password.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/RadioGroup/RadioGroup.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/RadioGroup/RadioGrpuo.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/SubmitBtn/SubmitBtn.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/component/SubmitBtn/SubmitBtn.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/FromErrorMessage/FormErrorMessage.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/FromErrorMessage/FormErrorMessage.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/SignUpPage/SignUp.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/SignUpPage/SignUp.scss" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +56,11 @@
     <property name="ts.external.directory.path" value="D:\WebStorm 2020.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Проекты\my works\React-redux\sign-up-test\src\Page" />
+    </key>
+  </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
@@ -79,7 +87,8 @@
       <workItem from="1634565052038" duration="3597000" />
       <workItem from="1634568776176" duration="4385000" />
       <workItem from="1634573323274" duration="7000000" />
-      <workItem from="1634580673632" duration="6096000" />
+      <workItem from="1634580673632" duration="6320000" />
+      <workItem from="1634643444461" duration="9931000" />
     </task>
     <servers />
   </component>

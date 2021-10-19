@@ -1,0 +1,17 @@
+.ant-form-item-control-input-content {
+
+  .ant-btn-primary {
+    border-radius: 10px;
+    height: 50px;
+    background-color: #3C9C41;
+    border: none;
+
+    &:hover {
+      background-color: #4DB252;
+    }
+
+    &:focus {
+      background-color: #318636;
+    }
+  }
+}

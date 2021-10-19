@@ -1,4 +1,5 @@
-import SignUp from "./component/SignUpPage/SignUp";
+import React from 'react';
+import SignUp from "./Page/SignUpPage/SignUp";
 import './App.scss';
 
 function App() {
