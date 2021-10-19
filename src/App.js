@@ -5,7 +5,7 @@ import './App.scss';
 function App() {
   return (
     <div className="App">
-      <SignUp email="expample.exam@gmail.com"/>
+      <SignUp/>
     </div>
   );
 }
